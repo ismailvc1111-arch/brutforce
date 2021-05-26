@@ -1,6 +1,5 @@
 #!/usr/bin/python
-# -*- coding: utf-8 -*-
-#@AUTHOR: joao-b4
+# -*- coding: utf-8 -
 import sys,time,os
 try:
     if len(sys.argv) < 4:
